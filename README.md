@@ -1,3 +1,4 @@
+# Rag with FastAPI
 Bu proje *FastAPI* ve *Langchain* kullanılarak geliştirilmiş bir **chatbot** uygulamasıdır.
 Kullanıcıların belirli bir konudaki sorularını yanıtlamak için *LLM* ve *VectorDatabase* entegrasyonu sağlar. Vector database olarak **Chroma** kullanılmıştır.
 
